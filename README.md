@@ -1,2 +1,99 @@
-<h1>ini adalah a terserah si lah<h1>
-=====================================
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>web irfan</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Selamat Datang IPaan Store</h1>
+        <nav>
+            <ul>
+                <li><a href="#produk">Produk</a></li>
+                <li><a href="#tentang">Tentang Kami</a></li>
+                <li><a href="#kontak">Kontak</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="produk">
+        <center>
+        <h2>Produk Kami</h2>
+    </center>
+    <main>
+        <div class="produk">
+            <img src="img/oppo-a5s-r.jpg" alt="Produk 1">
+            <h3>Oppo A5s (AX5s)</h3>
+            <p>Rp 1.359.000,00</p>
+            <button>Beli Sekarang</button>
+        </div>
+
+        <div class="produk">
+            <img src="img/oppo-a2-pro.jpg" alt="Produk 2">
+            <h3>Oppo A2 Pro</h3>
+            <p>Rp 3.899.000,00</p>
+            <button>Beli Sekarang</button>
+        </div>
+
+        <div class="produk">
+            <img src="img/oppo-reno5-5g.jpg" alt="Produk 1">
+            <h3>Oppo Reno5 5G</h3>
+            <p> Rp 4.999.000,00</p>
+            <button>Beli Sekarang</button>
+        </div>
+
+        <div class="produk">
+            <img src="img/oppo-find-x6-pro.jpg" alt="Produk 1">
+            <h3>Oppo Find X6 Pro</h3>
+            <p>Rp 19.250.000,00</p>
+            <button>Beli Sekarang</button>
+        </div>
+
+        <div class="produk">
+            <img src="img/oppo-reno7-z-5g.jpg" alt="Produk 1">
+            <h3>Oppo Reno7 5G</h3>
+            <p>Rp 18.000.000,00</p>
+            <button>Beli Sekarang</button>
+        </div>
+
+        <div class="produk">
+            <img src="img/oppo-reno8.jpg" alt="Produk 1">
+            <h3>Oppo Reno8</h3>
+            <p>Rp 4.850.000,00</p>
+            <button>Beli Sekarang</button>
+        </div>
+
+        <div class="produk">
+            <img src="img/oppo-reno9.jpg" alt="Produk 1">
+            <h3>Oppo Reno9</h3>
+            <p>Rp 10.999.000,00</p>
+            <button>Beli Sekarang</button>
+        </div>
+
+        <div class="produk">
+            <img src="img/oppo-reno10-pro-international.jpg" alt="Produk 1">
+            <h3>Oppo Reno10 pro</h3>
+            <p>Rp 10.999.000,00</p>
+            <button>Beli Sekarang</button>
+        </div>
+
+    </main>
+        <!-- Tambahkan produk lainnya di sini -->
+    </section>
+
+    <section id="tentang">
+        <h2>Tentang Kami</h2>
+        <p>Kami adalah toko yang berkomitmen menyediakan produk berkualitas untuk kebutuhan Anda.</p>
+    </section>
+
+       <section id="kontak">
+    <h2>Hubungi Kami</h2>
+    <p>Jika Anda memiliki pertanyaan atau butuh bantuan, silakan hubungi kami di:</p>
+    <p>Email: irfanmustofa305@gmail.com</p>
+    <p><a href="https://wa.me/6282136958845">Kontak melalui WhatsApp</a></p>
+</section>
+
+</body>
+</html>
